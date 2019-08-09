@@ -1,8 +1,8 @@
-# Caltech_UCSD_Birds200_2011_classification
+## Caltech_UCSD_Birds200_2011_classification
 200 Birds classification
 
 
-keep working ...
+#keep working ... my target is 200, but start from 50 or less... 
 
 Everything is based on the script Google provide and Caltech-UCSD
 http://storage.googleapis.com/cloud-iot-edge-pretrained-models/docker/classify_scripts.tgz
