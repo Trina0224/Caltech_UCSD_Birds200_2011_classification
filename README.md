@@ -21,7 +21,7 @@ I cp some files and end at _birds.sh or _birds.py for easy reading and managemen
 
 ====================================================
 
-Citation
+Reference
 
 If you use CUB-200-2011 in your work, please cite the technical report:
 
